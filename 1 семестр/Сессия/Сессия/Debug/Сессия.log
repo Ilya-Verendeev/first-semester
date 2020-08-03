@@ -1,0 +1,5 @@
+﻿  Сессия.cpp
+c:\users\i\desktop\информатика\сессия\сессия\сессия.cpp(200): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\i\desktop\информатика\сессия\сессия\сессия.cpp(231): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+  Сессия.vcxproj -> C:\Users\I\Desktop\информатика\Сессия\Debug\Сессия.exe
